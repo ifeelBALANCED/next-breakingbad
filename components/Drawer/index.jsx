@@ -32,7 +32,7 @@ const BreakingDrawer = () => {
                     <DrawerOverlay>
                         <DrawerContent>
                             <DrawerCloseButton/>
-                            <DrawerHeader borderBottomWidth="1px">Basic Drawer</DrawerHeader>
+                            <DrawerHeader borderBottomWidth="1px">Breaking Drawer</DrawerHeader>
                             <DrawerBody>
                                 <ChangeMode/>
                                 <Box mt="2">
